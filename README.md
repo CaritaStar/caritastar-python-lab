@@ -1,12 +1,11 @@
 # CaritaStar Python Lab
 
-Day1 :
+## Day1
 - Python basic
 - Mini Calculator
 - For Loop Practice
 
 ## Day2
-
 - Function-based Calculator
 - 입력 / 연산자 / 계산 / 출력 / 반복 여부 판단 함수 분리
 - get_number(), get_operator(), get_second_number(), calculate(), print_result(), should_continue(), main() 구현
